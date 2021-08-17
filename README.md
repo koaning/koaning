@@ -1,16 +1,26 @@
-### Hi there 👋
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 <a href="https://koaning.io">Vincent D. Warmerdam</a>                                                                             
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Open Source Packages                                                                         
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://scikit-lego.netlify.app/">scikit-lego</a></span> - <span style="color: #808080; text-decoration-color: #808080">lego bricks for sklearn</span>                                                       
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">human-learn</a></span> - <span style="color: #808080; text-decoration-color: #808080">rule-based components for sklearn</span>                                             
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">whatlies</a></span>    - <span style="color: #808080; text-decoration-color: #808080">word embeddings for sklearn pipelines</span>                                         
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">clumper</a></span>     - <span style="color: #808080; text-decoration-color: #808080">function API for lists of dicts</span>                                               
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">evol</a></span>        - <span style="color: #808080; text-decoration-color: #808080">grammar for genetic heuristics</span>                                                
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">memo</a></span>        - <span style="color: #808080; text-decoration-color: #808080">saves a whole log of time</span>                                                     
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">drawdata</a></span>    - <span style="color: #808080; text-decoration-color: #808080">draw datasets in jupyter</span>                                                      
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">tokenwiser</a></span>  - <span style="color: #808080; text-decoration-color: #808080">sklearn token tricks via .fit_partial()</span>                                       
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://koaning.github.io/human-learn/">mktestdocs</a></span>  - <span style="color: #808080; text-decoration-color: #808080">turn markdown files into pytest tests</span>                                         
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>⭐ Online Projects                                                                              
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://koaning.io">koaning.io</a></span>   - <span style="color: #808080; text-decoration-color: #808080">personal blog</span>                                                                
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://calmcode.io">calmcode.io</a></span>  - <span style="color: #808080; text-decoration-color: #808080">dev education service</span>                                                        
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://calmcode.io">dearme.email</a></span> - <span style="color: #808080; text-decoration-color: #808080">reflection service</span>                                                           
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🎙️ Popular Talks                                                                                 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://youtu.be/qcrR-Hd0LhI?t=542">Optimal Benchmarks and Other Failures</a></span>                                                       
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=nJAmN6gWdK8">Playing by the Rules-Based-Systems</a></span>                                                          
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=Z8MEFI7ZJlA">How to Constrain Artificial Stupidity</a></span>                                                       
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=kYMfE9u-lMo">The Profession of Solving the Wrong Problem</a></span>                                                 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=68ABAU_V8qI">Winning with Simple, even Linear, Models</a></span>                                                    
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>👨‍💻 Employer                                                                                   
+<span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://rasa.com">Rasa</a></span> - <span style="color: #808080; text-decoration-color: #808080">conversational software</span>                                                              
 
-<!--
-**koaning/koaning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/fishnets88">@fishnets88</a></span>
+</pre>
