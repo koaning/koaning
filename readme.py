@@ -20,11 +20,12 @@ python_tree.add("[bold link=https://github.com/koaning/pytest-duration-insights]
 python_tree.add("[bold link=https://github.com/koaning/justcharts]justcharts.js[/] - [bright_black]hosting vegalite charts, just easier")
 python_tree.add("[bold link=https://github.com/godatadriven/evol]evol[/]          - [bright_black]grammar for genetic heuristics")
 
-
+contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
+contrib_tree.add("[bold link=https://fairlearn.org/v0.7.0/api_reference/fairlearn.preprocessing.html#fairlearn.preprocessing.CorrelationRemover]fairlearn[/]     - [bright_black]contributed the CorrelationFilter")
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
-online_tree.add("[bold link=https://koaning.io]koaning.io[/]   - [bright_black]personal blog")
-online_tree.add("[bold link=https://calmcode.io]calmcode.io[/]  - [bright_black]dev education service")
-online_tree.add("[bold link=https://dearme.email]dearme.email[/] - [bright_black]reflection service")
+online_tree.add("[bold link=https://koaning.io]koaning.io[/]    - [bright_black]personal blog")
+online_tree.add("[bold link=https://calmcode.io]calmcode.io[/]   - [bright_black]dev education service")
+online_tree.add("[bold link=https://dearme.email]dearme.email[/]  - [bright_black]reflection service")
 
 talk_tree = tree.add("🎙️ Popular Talks", guide_style="bright_black")
 talk_tree.add("[bold link=https://youtu.be/qcrR-Hd0LhI?t=542]Optimal Benchmarks and Other Failures[/]")
