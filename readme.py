@@ -15,7 +15,6 @@ python_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/] 
 python_tree.add("[bold link=https://github.com/koaning/drawdata]drawdata[/]      - [bright_black]draw datasets in jupyter")
 python_tree.add("[bold link=https://koaning.github.io/clumper/]clumper[/]       - [bright_black]function API for lists of dicts")
 python_tree.add("[bold link=https://koaning.github.io/memo/getting-started.html]memo[/]          - [bright_black]saves a whole log of time")
-python_tree.add("[bold link=https://calmcode.io/labs/drawdata.html]drawdata[/]      - [bright_black]draw datasets in jupyter")
 python_tree.add("[bold link=https://github.com/koaning/mktestdocs]mktestdocs[/]    - [bright_black]turn markdown files into pytest tests")
 python_tree.add("[bold link=https://github.com/koaning/pytest-duration-insights]durations[/]     - [bright_black]pytest duration insights")
 python_tree.add("[bold link=https://github.com/koaning/justcharts]justcharts.js[/] - [bright_black]hosting vegalite charts, just easier")
