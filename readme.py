@@ -37,14 +37,18 @@ online_tree.add("[bold link=https://calmcode.io]calmcode.io[/]   - [bright_black
 online_tree.add("[bold link=https://dearme.email]dearme.email[/]  - [bright_black]reflection service")
 
 talk_tree = tree.add("🎙️ Popular Talks", guide_style="bright_black")
-talk_tree.add("[bold link=https://youtu.be/qcrR-Hd0LhI?t=542]Optimal Benchmarks and Other Failures[/]")
+talk_tree.add("[bold link=https://www.youtube.com/watch?v=lJKPiOf_o8k]Optimal on Paper, Broken in Reality[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=nJAmN6gWdK8]Playing by the Rules-Based-Systems[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=Z8MEFI7ZJlA]How to Constrain Artificial Stupidity[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=kYMfE9u-lMo]The Profession of Solving the Wrong Problem[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=68ABAU_V8qI]Winning with Simple, even Linear, Models[/]")
+talk_tree.add("[bold link=https://youtu.be/qcrR-Hd0LhI?t=542]Optimal Benchmarks and Other Failures[/]")
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
-rasa_tree = employer_tree.add("[bold link=https://rasa.com]Rasa[/] - [bright_black]conversational software")
+
+explosion_tree = employer_tree.add("[bold link=https://explosion.ai/]💥 Explosion[/]  - [bright_black]developer tools for ml")
+
+rasa_tree = employer_tree.add("[bold link=https://rasa.com]🤖 Rasa[/]       - [bright_black]conversational software")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/rasa-nlu-examples]nlu examples[/] - [bright_black]custom nlu components for Rasa")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/taipo]taipo[/]        - [bright_black]data augmentation tools")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/rasalit]rasalit[/]      - [bright_black]streamlit apps for rasa nlu")
