@@ -52,6 +52,7 @@ rasa_tree = employer_tree.add("[bold link=https://rasa.com]🤖 Rasa[/]       - 
 rasa_tree.add("[bold link=https://github.com/RasaHQ/rasa-nlu-examples]nlu examples[/] - [bright_black]custom nlu components for Rasa")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/taipo]taipo[/]        - [bright_black]data augmentation tools")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/rasalit]rasalit[/]      - [bright_black]streamlit apps for rasa nlu")
+rasa_tree.add("[bold link=https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb]algo whiteboard [/] - [bright_black]nlp education")
 
 console.print(tree)
 console.print("")
