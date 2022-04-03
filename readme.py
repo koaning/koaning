@@ -27,6 +27,7 @@ contrib_tree.add("[bold link=https://github.com/koaning/tjek]tjek[/]          - 
 contrib_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]        - [bright_black]tracking github action times across open source")
 contrib_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]     - [bright_black]many sentiment models, one repo")
 contrib_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/]    - [bright_black]sklearn token tricks")
+contrib_tree.add("[bold link=https://github.com/koaning/akin]akin[/]    - [bright_black]sort based on text similarities")
 
 contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
 contrib_tree.add("[bold link=https://fairlearn.org/v0.7.0/api_reference/fairlearn.preprocessing.html#fairlearn.preprocessing.CorrelationRemover]fairlearn[/]     - [bright_black]contributed the CorrelationFilter")
