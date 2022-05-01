@@ -21,8 +21,9 @@ python_tree.add("[bold link=https://github.com/koaning/justcharts]justcharts.js[
 python_tree.add("[bold link=https://github.com/godatadriven/evol]evol[/]          - [bright_black]grammar for genetic heuristics")
 
 contrib_tree = tree.add("🔬 Experiments", guide_style="bright_black")
-contrib_tree.add("[bold link=https://koaning.github.io/simsity/]simsity[/]       - [bright_black]a super simple similarities service")
 contrib_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]     - [bright_black]many sentiment models, one repo")
+contrib_tree.add("[bold link=https://koaning.github.io/simsity/]simsity[/]       - [bright_black]a super simple similarities service")
+contrib_tree.add("[bold link=https://github.com/koaning/scikit-teach/]scikit-teach[/]  - [bright_black]some active learning benchmarks")
 contrib_tree.add("[bold link=https://github.com/koaning/akin]akin[/]          - [bright_black]sort based on zero-shot similarities")
 contrib_tree.add("[bold link=https://github.com/koaning/tjek]tjek[/]          - [bright_black]tjek changes with the main branch")
 contrib_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]        - [bright_black]tracking github action times across open source")
