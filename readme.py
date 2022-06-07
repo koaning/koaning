@@ -20,19 +20,16 @@ python_tree.add("[bold link=https://github.com/koaning/skedulord]skedulord[/]   
 python_tree.add("[bold link=https://koaning.github.io/memo/getting-started.html]memo[/]           - [bright_black]saves a whole log of time")
 python_tree.add("[bold link=https://github.com/koaning/pytest-duration-insights]durations[/]      - [bright_black]pytest duration insights")
 python_tree.add("[bold link=https://github.com/koaning/justcharts]justcharts.js[/]  - [bright_black]hosting vegalite charts, just easier")
-# python_tree.add("[bold link=https://github.com/koaning/hoverimg]hoverimg.js[/]    - [bright_black]hoverable images in HTML")
 python_tree.add("[bold link=https://github.com/godatadriven/evol]evol[/]           - [bright_black]grammar for genetic heuristics")
 
 contrib_tree = tree.add("🔬 Experiments", guide_style="bright_black")
-contrib_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]      - [bright_black]many sentiment models, one repo")
-contrib_tree.add("[bold link=https://koaning.github.io/simsity/]simsity[/]        - [bright_black]a super simple similarities service")
-contrib_tree.add("[bold link=https://github.com/koaning/scikit-teach/]scikit-teach[/]   - [bright_black]some active learning benchmarks")
 contrib_tree.add("[bold link=https://github.com/koaning/akin]akin[/]           - [bright_black]sort based on zero-shot similarities")
 contrib_tree.add("[bold link=https://github.com/koaning/tjek]tjek[/]           - [bright_black]tjek changes with the main branch")
 contrib_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]         - [bright_black]tracking github action times across open source")
+contrib_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]      - [bright_black]many sentiment models, one repo")
+contrib_tree.add("[bold link=https://koaning.github.io/simsity/]simsity[/]        - [bright_black]a super simple similarities service")
+contrib_tree.add("[bold link=https://github.com/koaning/scikit-teach/]scikit-teach[/]   - [bright_black]some active learning benchmarks")
 contrib_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/]     - [bright_black]sklearn token tricks")
-contrib_tree.add("[bold link=https://github.com/koaning/embetter]embetter[/]       - [bright_black]similarity based learning")
-contrib_tree.add("[bold link=https://github.com/koaning/labeltable]labeltable[/]     - [bright_black]experimental labeltable app")
 contrib_tree.add("[bold link=https://github.com/koaning/benchmarks]benchmarks[/]     - [bright_black]some random, but intersting, benchmarks")
 
 contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
@@ -54,6 +51,7 @@ talk_tree.add("[bold link=https://youtu.be/qcrR-Hd0LhI?t=542]Optimal Benchmarks 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
 explosion_tree = employer_tree.add("[bold link=https://explosion.ai/]💥 Explosion[/]  - [bright_black]developer tools for ml")
+explosion_tree.add("[bold link=https://github.com/koaning/bulk]bulk[/]          - [bright_black]simple bulk labelling interface")
 explosion_tree.add("[bold link=https://github.com/koaning/cluestar]cluestar[/]      - [bright_black]inspiration for your first text labels")
 explosion_tree.add("[bold link=https://github.com/koaning/spacy-report]spacy-report[/]  - [bright_black]reports for spaCy models")
 
