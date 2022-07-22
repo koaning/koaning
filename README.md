@@ -37,7 +37,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=Z8MEFI7ZJlA">How to Constrain Artificial Stupidity</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=kYMfE9u-lMo">The Profession of Solving the Wrong Problem</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=68ABAU_V8qI">Winning with Simple, even Linear, Models</a></span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://youtu.be/qcrR-Hd0LhI?t=542">Optimal Benchmarks and Other Failures</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=yXGCKqo5cEY">Untitled12.ipynb</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>👨‍💻 Employer
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://explosion.ai/">💥 Explosion</a></span>  - <span style="color: #808080; text-decoration-color: #808080">developer tools for ml</span>
 <span style="color: #808080; text-decoration-color: #808080">    ┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/bulk">bulk</a></span>          - <span style="color: #808080; text-decoration-color: #808080">simple bulk labelling interface</span>

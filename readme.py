@@ -48,7 +48,7 @@ talk_tree.add("[bold link=https://www.youtube.com/watch?v=nJAmN6gWdK8]Playing by
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=Z8MEFI7ZJlA]How to Constrain Artificial Stupidity[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=kYMfE9u-lMo]The Profession of Solving the Wrong Problem[/]")
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=68ABAU_V8qI]Winning with Simple, even Linear, Models[/]")
-talk_tree.add("[bold link=https://youtu.be/qcrR-Hd0LhI?t=542]Optimal Benchmarks and Other Failures[/]")
+talk_tree.add("[bold link=https://www.youtube.com/watch?v=yXGCKqo5cEY]Untitled12.ipynb[/]")
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
