@@ -36,7 +36,8 @@ python_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]     
 
 contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
 contrib_tree.add("[bold link=https://fairlearn.org/v0.7.0/api_reference/fairlearn.preprocessing.html#fairlearn.preprocessing.CorrelationRemover]fairlearn[/]      - [bright_black]contributed the CorrelationFilter")
-
+contrib_tree.add("[bold link=https://github.com/pola-rs/polars/pull/82]polars[/]         - [bright_black]contributed the .pipe() method")
+  
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
 online_tree.add("[bold link=https://koaning.io]koaning.io[/]     - [bright_black]personal blog")
 online_tree.add("[bold link=https://calmcode.io]calmcode.io[/]    - [bright_black]dev education service")
