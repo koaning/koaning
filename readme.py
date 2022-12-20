@@ -12,7 +12,7 @@ python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-par
 python_tree.add("[bold link=https://github.com/koaning/embetter]embetter[/]       - [bright_black]embeddings ready for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]   - [bright_black]bloom transformers for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/human-learn]human-learn[/]    - [bright_black]rule-based components for sklearn")
-contrib_tree.add("[bold link=https://github.com/koaning/simsity]simsity[/]        - [bright_black]a super simple similarities service")
+python_tree.add("[bold link=https://github.com/koaning/simsity]simsity[/]        - [bright_black]a super simple similarities service")
 python_tree.add("[bold link=https://github.com/koaning/icepickle]icepickle[/]      - [bright_black]cool and safe storage for linear models")
 python_tree.add("[bold link=https://github.com/koaning/drawdata]drawdata[/]       - [bright_black]draw datasets in jupyter")
 python_tree.add("[bold link=https://github.com/koaning/mktestdocs]mktestdocs[/]     - [bright_black]turn markdown files into pytest tests")
@@ -32,7 +32,7 @@ contrib_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]  
 contrib_tree.add("[bold link=https://github.com/koaning/scikit-teach/]scikit-teach[/]   - [bright_black]some active learning benchmarks")
 contrib_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/]     - [bright_black]sklearn token tricks")
 contrib_tree.add("[bold link=https://github.com/koaning/benchmarks]benchmarks[/]     - [bright_black]some random, but intersting, benchmarks")
-python_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]       - [bright_black]word embeddings for sklearn pipelines")
+contrib_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]       - [bright_black]word embeddings for sklearn pipelines")
 
 contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
 contrib_tree.add("[bold link=https://fairlearn.org/v0.7.0/api_reference/fairlearn.preprocessing.html#fairlearn.preprocessing.CorrelationRemover]fairlearn[/]      - [bright_black]contributed the CorrelationFilter")
