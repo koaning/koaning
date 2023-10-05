@@ -61,9 +61,10 @@ employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
 explosion_tree = employer_tree.add("[bold link=https://explosion.ai/]💥 Explosion[/]  - [bright_black]developer tools for ml")
 explosion_tree.add("[bold link=https://github.com/koaning/prodigy-tui]prodigy-tui[/]    - [bright_black]Prodigy from the terminal")
-explosion_tree.add("[bold link=https://github.com/explosion/openai-prodigy-recipes]openai-prodigy[/] - [bright_black]Prodigy recipe that uses OpenAI")
+explosion_tree.add("[bold link=https://github.com/koaning/prodigy-pdf]prodigy-pdf[/]    - [bright_black]Annotate PDFs via Prodigy")
+explosion_tree.add("[bold link=https://github.com/koaning/prodigy-ann]prodigy-ann[/]    - [bright_black]ANN techniques to find relevant subsets")
+explosion_tree.add("[bold link=https://github.com/koaning/prodigy-lunr]prodigy-lunr[/]    - [bright_black]Search techniques to find relevant subsets")
 explosion_tree.add("[bold link=https://github.com/koaning/cluestar]cluestar[/]       - [bright_black]inspiration for your first text labels")
-explosion_tree.add("[bold link=https://github.com/koaning/spacy-report]spacy-report[/]   - [bright_black]reports for spaCy models")
 
 rasa_tree = employer_tree.add("[bold link=https://rasa.com]🤖 Rasa[/]       - [bright_black]conversational software")
 rasa_tree.add("[bold link=https://github.com/RasaHQ/rasa-nlu-examples]nlu examples[/]      - [bright_black]custom nlu components for Rasa")
