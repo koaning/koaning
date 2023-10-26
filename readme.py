@@ -12,6 +12,7 @@ python_tree.add("[bold link=https://github.com/koaning/doubtlab]doubtlab[/]     
 python_tree.add("[bold link=https://github.com/koaning/scikit-lego]scikit-lego[/]       - [bright_black]lego bricks for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-partial[/]    - [bright_black]partial_fit() pipelines for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-prune/]scikit-prune[/]      - [bright_black]prune scikit learn pipelines")
+python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/human-learn]human-learn[/]       - [bright_black]rule-based components for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/sentence-models]sentence-models[/]   - [bright_black]a different take on textcat")
 python_tree.add("[bold link=https://github.com/koaning/mktestdocs]mktestdocs[/]        - [bright_black]turn markdown files into pytest tests")
@@ -25,7 +26,6 @@ python_tree.add("[bold link=https://github.com/koaning/memo]memo[/]             
 python_tree.add("[bold link=https://github.com/koaning/skedulord]skedulord[/]         - [bright_black]makes cron a bit more fun")
 python_tree.add("[bold link=https://github.com/koaning/icepickle]icepickle[/]         - [bright_black]cool and safe storage for linear models")
 python_tree.add("[bold link=https://github.com/godatadriven/evol]evol[/]              - [bright_black]grammar for genetic heuristics")
-python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
 
 experiments_tree = tree.add("🔬 Experiments", guide_style="bright_black")
 experiments_tree.add("[bold link=https://github.com/pola-rs/valves]valves[/]         - [bright_black]general .pipe()-lines")
@@ -61,6 +61,7 @@ talk_tree.add("[bold link=https://www.youtube.com/watch?v=yXGCKqo5cEY]Untitled12
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 
 explosion_tree = employer_tree.add("[bold link=https://explosion.ai/]💥 Explosion[/]   - [bright_black]developer tools for ml")
+explosion_tree.add("[bold link=https://github.com/koaning/prodigy-tui]prodigy-hf[/]        - [bright_black]Prodigy integration for the HuggingFace stack")
 explosion_tree.add("[bold link=https://github.com/koaning/prodigy-tui]prodigy-tui[/]       - [bright_black]Prodigy from the terminal")
 explosion_tree.add("[bold link=https://github.com/koaning/prodigy-pdf]prodigy-pdf[/]       - [bright_black]Annotate PDFs via Prodigy")
 explosion_tree.add("[bold link=https://github.com/koaning/prodigy-ann]prodigy-ann[/]       - [bright_black]ANN techniques to find relevant subsets")
