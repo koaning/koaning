@@ -11,7 +11,6 @@ python_tree.add("[bold link=https://github.com/koaning/embetter]embetter[/]     
 python_tree.add("[bold link=https://github.com/koaning/doubtlab]doubtlab[/]          - [bright_black]suite of tools to help find bad labels")
 python_tree.add("[bold link=https://github.com/koaning/scikit-lego]scikit-lego[/]       - [bright_black]lego bricks for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-partial[/]    - [bright_black]partial_fit() pipelines for sklearn")
-python_tree.add("[bold link=https://github.com/koaning/scikit-prune/]scikit-prune[/]      - [bright_black]prune scikit learn pipelines")
 python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/human-learn]human-learn[/]       - [bright_black]rule-based components for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/sentence-models]sentence-models[/]   - [bright_black]a different take on textcat")
@@ -49,7 +48,8 @@ talk_tree.add("[bold link=https://www.youtube.com/watch?v=68ABAU_V8qI]Winning wi
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=yXGCKqo5cEY]Untitled12.ipynb[/]")
 
 experiments_tree = tree.add("🔬 Random Experiments", guide_style="bright_black")
-python_tree.add("[bold link=https://github.com/koaning/simsity]simsity[/]           - [bright_black]a super simple similarities service")
+experiments_tree.add("[bold link=https://github.com/koaning/scikit-prune/]scikit-prune[/]   - [bright_black]prune scikit learn pipelines")
+experiments_tree.add("[bold link=https://github.com/koaning/scikit-churn]scikit-churn[/]   - [bright_black]safety rails for churn work")
 experiments_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]         - [bright_black]tracking github action times across open source")
 experiments_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]      - [bright_black]many sentiment models, one repo")
 experiments_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/]     - [bright_black]sklearn token tricks")
