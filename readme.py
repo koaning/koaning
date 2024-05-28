@@ -9,6 +9,7 @@ python_tree = tree.add("📦 Open Source Packages", guide_style="bright_black")
 python_tree.add("[bold link=https://github.com/koaning/bulk]bulk[/]              - [bright_black]simple bulk labelling interface")
 python_tree.add("[bold link=https://github.com/koaning/embetter]embetter[/]          - [bright_black]embeddings ready for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/doubtlab]doubtlab[/]          - [bright_black]suite of tools to help find bad labels")
+python_tree.add("[bold link=https://github.com/koaning/drawdata]drawdata[/]          - [bright_black]draw datasets in jupyter")
 python_tree.add("[bold link=https://github.com/koaning/scikit-lego]scikit-lego[/]       - [bright_black]lego bricks for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-partial[/]    - [bright_black]partial_fit() pipelines for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
@@ -17,7 +18,6 @@ python_tree.add("[bold link=https://github.com/koaning/sentence-models]sentence-
 python_tree.add("[bold link=https://github.com/koaning/mktestdocs]mktestdocs[/]        - [bright_black]turn markdown files into pytest tests")
 python_tree.add("[bold link=https://github.com/koaning/lazylines]lazylines[/]         - [bright_black]lightweight utils for .jsonl wrangling")
 python_tree.add("[bold link=https://github.com/koaning/cluestar]cluestar[/]          - [bright_black]inspiration for your first text labels")
-python_tree.add("[bold link=https://github.com/koaning/drawdata]drawdata[/]          - [bright_black]draw datasets in jupyter")
 python_tree.add("[bold link=https://github.com/koaning/pytest-duration-insights]durations[/]         - [bright_black]pytest duration insights")
 python_tree.add("[bold link=https://github.com/koaning/tuilwindcss]tuilwindcss[/]       - [bright_black]tailwindcss for textual tui apps")
 python_tree.add("[bold link=https://github.com/koaning/memo]memo[/]              - [bright_black]saves a whole log of time")
@@ -32,8 +32,8 @@ contrib_tree.add("[bold link=https://github.com/pola-rs/polars/pull/82]polars[/]
 contrib_tree.add("[bold link=https://github.com/MaartenGr/BERTopic/issues/768]BERTopic[/]          - [bright_black]added lightweight sklearn pipeline support")
 
 online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
-online_tree.add("[bold link=https://koaning.io]koaning.io[/]        - [bright_black]personal blog")
 online_tree.add("[bold link=https://calmcode.io]calmcode.io[/]       - [bright_black]intermediate developer education")
+online_tree.add("[bold link=https://koaning.io]koaning.io[/]        - [bright_black]personal blog")
 online_tree.add("[bold link=https://dearme.email]dearme.email[/]      - [bright_black]reflection via a 30 day delay")
 
 talk_tree = tree.add("🎙️ Popular Talks", guide_style="bright_black")
@@ -49,7 +49,6 @@ talk_tree.add("[bold link=https://www.youtube.com/watch?v=yXGCKqo5cEY]Untitled12
 
 experiments_tree = tree.add("🔬 Random Experiments", guide_style="bright_black")
 experiments_tree.add("[bold link=https://github.com/koaning/scikit-prune/]scikit-prune[/]   - [bright_black]prune scikit learn pipelines")
-experiments_tree.add("[bold link=https://github.com/koaning/scikit-churn]scikit-churn[/]   - [bright_black]safety rails for churn work")
 experiments_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]         - [bright_black]tracking github action times across open source")
 experiments_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]      - [bright_black]many sentiment models, one repo")
 experiments_tree.add("[bold link=https://github.com/koaning/tokenwiser]tokenwiser[/]     - [bright_black]sklearn token tricks")
@@ -57,6 +56,10 @@ experiments_tree.add("[bold link=https://github.com/koaning/clumper]clumper[/]  
 experiments_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]       - [bright_black]exploration tools for word embeddings")
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
+
+probabl_tree = employer_tree.add("[bold link=https://probabl.ai/]🎲 :probabl.[/]   - [bright_black]scikit-learn and friends")
+probabl_tree.add("[bold link=https://github.com/koaning/scikit-churn]scikit-churn[/]      - [bright_black]safety rails for churn work")
+probabl_tree.add("[bold link=https://github.com/koaning/scikit-playtime]scikit-playtime[/]   - [bright_black]rethinking pipelines")
 
 explosion_tree = employer_tree.add("[bold link=https://explosion.ai/]💥 Explosion[/]   - [bright_black]developer tools for nlp")
 explosion_tree.add("[bold link=https://github.com/koaning/prodigy-hf]prodigy-hf[/]        - [bright_black]Prodigy integration for the HuggingFace stack")
