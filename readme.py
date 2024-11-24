@@ -22,7 +22,6 @@ python_tree.add("[bold link=https://github.com/koaning/doubtlab]doubtlab[/]     
 python_tree.add("[bold link=https://github.com/koaning/sentence-models]sentence-models[/]   - [bright_black]a different take on textcat")
 python_tree.add("[bold link=https://github.com/koaning/mktestdocs]mktestdocs[/]        - [bright_black]turn markdown files into pytest tests")
 python_tree.add("[bold link=https://github.com/koaning/lazylines]lazylines[/]         - [bright_black]lightweight utils for .jsonl wrangling")
-python_tree.add("[bold link=https://github.com/koaning/cluestar]cluestar[/]          - [bright_black]inspiration for your first text labels")
 python_tree.add("[bold link=https://github.com/koaning/pytest-duration-insights]durations[/]         - [bright_black]pytest duration insights")
 python_tree.add("[bold link=https://github.com/koaning/tuilwindcss]tuilwindcss[/]       - [bright_black]tailwindcss for textual tui apps")
 python_tree.add("[bold link=https://github.com/koaning/memo]memo[/]              - [bright_black]saves a whole log of time")
