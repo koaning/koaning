@@ -17,6 +17,7 @@ python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-par
 python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/fh-matplotlib/]fh-matplotlib[/]     - [bright_black]matplotlib for FastHTML")
 python_tree.add("[bold link=https://github.com/koaning/fh-altair/]fh-altair[/]         - [bright_black]altair for FastHTML")
+python_tree.add("[bold link=https://github.com/koaning/dicekit/]dicekit[/]         - [bright_black]domain specific interface for dice")
 python_tree.add("[bold link=https://github.com/koaning/human-learn]human-learn[/]       - [bright_black]rule-based components for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/doubtlab]doubtlab[/]          - [bright_black]suite of tools to help find bad labels")
 python_tree.add("[bold link=https://github.com/koaning/sentence-models]sentence-models[/]   - [bright_black]a different take on textcat")
