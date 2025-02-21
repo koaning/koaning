@@ -63,6 +63,8 @@ experiments_tree.add("[bold link=https://github.com/koaning/clumper]clumper[/]  
 experiments_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]       - [bright_black]exploration tools for word embeddings")
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
+marimo_tree = employer_tree.add("[bold link=https://marimo.io/]🍀 marimo[/]      - [bright_black]better Python notebooks")
+marimo_tree.add("[bold link=https://github.com/koaning/datasette-marimo]datasette-marimo[/]  - [bright_black]datasette plugin for marimo")
 
 probabl_tree = employer_tree.add("[bold link=https://probabl.ai/]🎲 :probabl.[/]   - [bright_black]scikit-learn and friends")
 probabl_tree.add("[bold link=https://github.com/koaning/scikit-churn]scikit-churn[/]      - [bright_black]safety rails for churn work")
