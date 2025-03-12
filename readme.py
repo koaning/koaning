@@ -11,7 +11,7 @@ python_tree.add("[bold link=https://github.com/koaning/drawdata]drawdata[/]     
 python_tree.add("[bold link=https://github.com/koaning/uvtrick]uvtrick[/]           - [bright_black]run functions in external venvs via uv")
 python_tree.add("[bold link=https://github.com/koaning/wigglystuff]wigglystuff[/]       - [bright_black]extra notebook widgets")
 python_tree.add("[bold link=https://github.com/koaning/mohtml]mohtml[/]            - [bright_black]Pythonic HTML (for Marimo)")
-python_tree.add("[bold link=https://github.com/koaning/smartfunc]smartfunc[/]            - [bright_black]turns docstrings into LLM-functions")
+python_tree.add("[bold link=https://github.com/koaning/smartfunc]smartfunc[/]         - [bright_black]turns docstrings into LLM-functions")
 python_tree.add("[bold link=https://github.com/koaning/scikit-lego]scikit-lego[/]       - [bright_black]lego bricks for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-partial]scikit-partial[/]    - [bright_black]partial_fit() pipelines for sklearn")
 python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloom[/]      - [bright_black]bloom transformers for sklearn")
@@ -65,6 +65,7 @@ experiments_tree.add("[bold link=https://github.com/koaning/whatlies]whatlies[/]
 
 employer_tree = tree.add("👨‍💻 Employer", guide_style="bright_black")
 marimo_tree = employer_tree.add("[bold link=https://marimo.io/]🍀 marimo[/]      - [bright_black]better Python notebooks")
+marimo_tree.add("[bold link=https://github.com/koaning/mosync]mosync[/]  - [bright_black]async tools for microbatching in marimo")
 marimo_tree.add("[bold link=https://github.com/koaning/datasette-marimo]datasette-marimo[/]  - [bright_black]datasette plugin for marimo")
 
 probabl_tree = employer_tree.add("[bold link=https://probabl.ai/]🎲 :probabl.[/]   - [bright_black]scikit-learn and friends")
