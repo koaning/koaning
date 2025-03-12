@@ -55,7 +55,7 @@ talk_tree.add("[bold link=https://www.youtube.com/watch?v=68ABAU_V8qI]Winning wi
 talk_tree.add("[bold link=https://www.youtube.com/watch?v=yXGCKqo5cEY]Untitled12.ipynb[/]")
 
 experiments_tree = tree.add("🔬 Random Experiments", guide_style="bright_black")
-experiments_tree.add("[bold link=https://github.com/koaning/narlogs/]narlogs[/]           - [bright_black]logs all dataframe pipelines")
+experiments_tree.add("[bold link=https://github.com/koaning/narlogs/]narlogs[/]        - [bright_black]logs all dataframe pipelines")
 experiments_tree.add("[bold link=https://github.com/koaning/scikit-prune/]scikit-prune[/]   - [bright_black]prune scikit learn pipelines")
 experiments_tree.add("[bold link=https://github.com/koaning/gitlit]gitlit[/]         - [bright_black]tracking github action times across open source")
 experiments_tree.add("[bold link=https://github.com/koaning/sentimany]sentimany[/]      - [bright_black]many sentiment models, one repo")
