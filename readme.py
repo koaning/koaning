@@ -18,6 +18,7 @@ python_tree.add("[bold link=https://github.com/koaning/scikit-bloom/]scikit-bloo
 python_tree.add("[bold link=https://github.com/koaning/bulk]bulk[/]              - [bright_black]simple bulk labelling interface")
 python_tree.add("[bold link=https://github.com/koaning/fh-matplotlib/]fh-matplotlib[/]     - [bright_black]matplotlib for FastHTML")
 python_tree.add("[bold link=https://github.com/koaning/fh-altair/]fh-altair[/]         - [bright_black]altair for FastHTML")
+python_tree.add("[bold link=https://github.com/koaning/simsity/]simsity[/]           - [bright_black]dead simple vector 'database'")
 python_tree.add("[bold link=https://github.com/koaning/dicekit/]dicekit[/]           - [bright_black]domain specific interface for dice")
 python_tree.add("[bold link=https://github.com/koaning/flowshow/]flowshow[/]          - [bright_black]over the top logging decorator")
 python_tree.add("[bold link=https://github.com/koaning/human-learn]human-learn[/]       - [bright_black]rule-based components for sklearn")
